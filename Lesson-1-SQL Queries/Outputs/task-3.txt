@@ -1,0 +1,17 @@
+----------------Output----------------
+
+Title	                Director
+Toy Story	            John Lasseter
+A Bug's Life	        John Lasseter
+Toy Story 2	            John Lasseter
+Monsters, Inc.	        Pete Docter
+Finding Nemo	        Andrew Stanton
+The Incredibles	        Brad Bird
+Cars	                John Lasseter
+Ratatouille	            Brad Bird
+WALL-E	                Andrew Stanton
+Up	                    Pete Docter
+Toy Story 3	            Lee Unkrich
+Cars 2	                John Lasseter
+Brave	                Brenda Chapman
+Monsters University	    Dan Scanlon
