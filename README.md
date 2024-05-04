@@ -20,6 +20,7 @@ Welcome to the SQL BOLT Interactive Tutorial Solutions repository! This is where
 ## Let's Connect! 🤝
 
 If you have any questions or would like to discuss SQL and databases, feel free to reach out!
+Email: mpkaranpatel001018@gmail.com
 
 Happy coding! 🧑‍💻
 
