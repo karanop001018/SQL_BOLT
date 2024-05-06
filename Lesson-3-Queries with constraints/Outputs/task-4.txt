@@ -1,0 +1,5 @@
+--------------Output--------------
+
+Id	Title	Director	    Year	Length_minutes
+9	WALL-E	Andrew Stanton	2008	104
+87	WALL-G	Brenda Chapman	2042	97

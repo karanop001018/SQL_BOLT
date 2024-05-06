@@ -1,0 +1,8 @@
+--------------Output--------------
+
+Title	        Director
+Toy Story	    John Lasseter
+A Bug's Life	John Lasseter
+Toy Story 2	    John Lasseter
+Cars	        John Lasseter
+Cars 2	        John Lasseter
